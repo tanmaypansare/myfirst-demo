@@ -1,3 +1,3 @@
 # myfirst-demo
-This is my first Git Repository.<br>
+This is my First Git Repository.<br>
 Author-Pansare Tanmay sanjay
